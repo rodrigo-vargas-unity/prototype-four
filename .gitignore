@@ -1,0 +1,8 @@
+[Ll]ibrary/
+[Oo]bj/
+[Bb]uild/
+WebGL Builds/
+[Ll]ogs/
+
+# Visual Studio cache directory
+.vs/
